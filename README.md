@@ -64,11 +64,10 @@ php artisan serve
 
 ## Usage 🖥️
 
-[**DEMO**](https://github.com/simohammed-taher/efm_laravel_casa2)
+[**DEMO**](https://github.com/simohammed-taher/efm_laravel_casa1)
 
-<video src="https://github.com/simohammed-taher/efm_laravel_casa2/assets/100471051/47752f61-b9cf-4e7c-8acd-c849b2072dae
-" controls autoplay></video>
-
+<video src="https://github.com/simohammed-taher/efm_laravel_casa1/assets/100471051/9e566508-a03a-420e-adbb-eb99af7aa087"
+ controls autoplay></video>
 ## Licence 📝
 
 Ce projet est sous licence MIT.
